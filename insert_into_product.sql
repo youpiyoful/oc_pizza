@@ -1,0 +1,13 @@
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_Chauvin-la-Forêt", null, "Aide ne branche immobile minute rue. Science risquer mauvais sol répandre place naissance faveur. Vers léger combien espoir visite désormais.", "http://auger.fr/")
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_Munoz-sur-Evrard", null, "Mois leur fête fort fumer bande perdre salle. Chacun cou retourner rouler. Unique ce liberté chiffre condamner accord souffrir. Supporter construire avance circonstance.", "https://chartier.com/")
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_Michaud", null, "Présenter expérience couper traîner exposer poche autant. Simple service attirer pourquoi.
+Fixe avouer françois succès tête compagnon delà. Folie paysan faim lune résistance interrompre soin second.", "http://moreau.fr/")
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_Sainte Matthieu-sur-Mer", null, "Te point dominer créer. Moitié pensée franc barbe. Un adresser plante aucun tôt reposer.", "https://bonnet.fr/")
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_BaillyBourg", null, "Trouver quitter croix rappeler. Année militaire direction tu tel.", "https://www.guibert.com/")
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_Launay", null, "Départ vers vol. Compter souffrir odeur. Premier prétendre problème scène.", "http://www.berthelot.net/")
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_Payet", null, "Marche accent faim déclarer dehors métier révéler. Continuer trésor couleur siècle tantôt.
+Sûr soldat deviner. Politique troisième toute craindre crainte supérieur dont.", "https://ferreira.org/")
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_Sainte HortenseBourg", null, "Aventure seuil nu être retenir. Du religion raison car portier troubler.
+Rose hiver amuser nul. Porter appartement simple compter intérêt vie blanc.", "http://mallet.net/")
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_HamonBourg", null, "Pénétrer projet arriver bureau marché femme. Réussir honte billet reconnaître révéler maintenant demander.", "http://www.martel.fr/")
+INSERT INTO public.product (product_name, unit, descritpion, picture) VALUES ("pizza_Le Roux-sur-Monnier", null, "Verre feuille environ étudier. Difficile rideau rencontre titre distance renverser.", "http://masse.com/")
