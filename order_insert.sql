@@ -1,0 +1,2 @@
+insert into public.order (id_delivery_address, id_pizzeria, id_user, id_payment_choice, id_delivery_mode, payment_time) values (9, 2, 9, 1, 1, now());
+insert into public.order (id_delivery_address, id_pizzeria, id_user, id_payment_choice, id_delivery_mode, payment_time) values (8, 2, 8, 2, 2, null);
