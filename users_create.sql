@@ -1,0 +1,10 @@
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Kath', 'Farmiloe', 'kfarmiloe0@jimdo.com', '8bjyLHydt', 506-313-9926, 1, 3);
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Nance', 'Kilborn', 'nkilborn1@skyrock.com', '54f9jnwdDse', 591-891-4502, 2, 4);
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Rhiamon', 'Esberger', 'resberger2@reuters.com', '4lHzQS', 781-452-4981, 3, 1);
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Justus', 'Rennicks', 'jrennicks3@sfgate.com', 'Qei6BB8HHNIC', 781-378-0488, 4, 2);
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Reinaldos', 'Roaf', 'rroaf4@independent.co.uk', 'MOORB6ljQbJx', 229-703-4044, 5, 2);
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Shirlene', 'Croome', 'scroome5@nba.com', 'VAgiTc', 821-961-8338, 6, 2);
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Gasper', 'MacPeake', 'gmacpeake6@joomla.org', 'cpd7hjVxRBLm', 358-171-9233, 7, 2);
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Abramo', 'Jerrems', 'ajerrems7@cisco.com', 'a2uSh72L', 350-456-4013, 8, 2);
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Rorke', 'Taylorson', 'rtaylorson8@ask.com', 'Tt6NscV', 926-275-8339, 9, 2);
+insert into public.user (first_name, last_name, email, password, phone_number, id_address, id_user_groups) values ('Gideon', 'Fullylove', 'gfullylove9@com.com', 'uMbyJFN', 457-161-0873, 10, 2);
